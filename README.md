@@ -4,3 +4,5 @@ What I learned: During Jsl02 I learned more about if(){} statements and how they
 Struggles: My biggest struggle was at the beginning, when I was unsure of how I even wanted to go about writing the if statement.
 
 Improvements: Do some more practice on debugging function.
+
+References: w3s and mdn web docs
